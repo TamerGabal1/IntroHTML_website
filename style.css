@@ -1,0 +1,10 @@
+#navbar{
+    background-color: blue;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#navbar > a{
+    color: inherit;
+}
