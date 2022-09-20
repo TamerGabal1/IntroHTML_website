@@ -1,10 +1,16 @@
 #navbar{
-    background-color: blue;
-    color: white;
+    background-color: #6CA6C1;
+    color: #F7FFF7;
     display: flex;
     justify-content: space-evenly;
 }
 
 #navbar > a{
     color: inherit;
+}
+
+.centered{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
 }
